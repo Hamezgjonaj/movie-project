@@ -1,0 +1,7 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 100vh;
+  box-sizing: border-box;
+}

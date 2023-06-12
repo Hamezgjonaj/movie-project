@@ -1,0 +1,10 @@
+.infinite-movies-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.loading-indicator {
+  margin-top: 16px;
+  font-weight: bold;
+}
