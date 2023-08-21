@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Production Website
+
+Check out the live version of the project on [https://movie-project.pages.dev/]. 
+
 ## Available Scripts
 
 In the project directory, you can run:
